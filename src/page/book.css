@@ -101,6 +101,7 @@
     max-height: 80vh; /* Limit the height of the modal to 80% of the viewport */
     overflow-y: auto; /* Enable vertical scrolling if content overflows */
     text-align: left;
+    color: black;
   }
 
   .modal-content h2 {
