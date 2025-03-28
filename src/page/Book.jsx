@@ -67,6 +67,9 @@ const Book = () => {
           </div>
         </div>
       )}
+      <footer className="footer">
+        <p>© 2025 Bookstore. All rights reserved.</p>
+      </footer>
     </div>
   );
 };
